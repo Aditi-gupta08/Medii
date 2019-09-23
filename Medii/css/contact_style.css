@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+
+
+
+/*
+
+body{
+    background-color: rgba(106,106,30,0.1);
+}
+*/
+
+
+#tabl_form{
+    width: 110%;
+    margin-top: 5px;
+    padding: 20px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#tabl_form td{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#tabl_form input, textarea{
+    width: 95%;
+}
+
+.comp_info >b{
+    font-size: 28px;
+}
+.comp_info{
+    font-size: 23px;
+    padding: 15px;
+    margin-top: 25px;
+    font-family: 'Abel', sans-serif;
+    
+}
+#tabl_form, .comp_info{
+/*    background-color: rgba(10,10,70,0.3);*/
+    background-color: rgba(95, 252, 119, 0.7);
+    opacity: 0.9;
+    box-shadow: 10px 10px 10px #0f573b;
+}
+
+
+
+

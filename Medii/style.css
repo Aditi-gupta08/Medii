@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+
+li{
+    float:left;
+    list-style: none;
+}
+
+#titl{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Monoton', cursive;
+    background-color: antiquewhite;
+}
+
+#call > .row{
+    color: blue;
+    font-size: 30px;
+}
+.nn{
+    margin: 10px;
+}
+.list2 li a:hover{
+    background-color: #AOAOAO ;
+}
+nav{
+/*    background-color:#563d7c;*/
+    background-color: blue;
+/*    background-color: #484848;*/
+}
+
+a{
+    font-size: 16px;
+     font-family: 'Yatra One', cursive;
+    color:whitesmoke;
+}
+a:hover{
+    color: black;
+}
+
+.col-xs-12 img{
+    width: 100%;
+}
+
+
+.im{
+	width: 50%;
+	height: 50%;
+}
+
+

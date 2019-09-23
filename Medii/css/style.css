@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif&display=swap');
+
+
+
+body{
+    background-image:url(../images/bg5_e2.jpg);
+
+    background-size: cover;
+    max-height: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+li{
+    float:left;
+    list-style: none;
+}
+
+.ac{
+    background-color: 
+}
+
+
+.r1 > .col-md-8{
+    text-align: center;
+}
+
+.r1 > .col-md-3 > .row{
+/*    padding: 18px;*/
+    font-size: 18px;
+    padding-left: 30px;
+
+}
+
+#call{
+    margin-top: 10px;
+    font-family: 'Acme', sans-serif;
+/*    color: #9b2222;*/
+    color: rgba(119, 43, 43, 0.98);
+    background-color: rgba(87, 119, 163, 0.52);
+    padding:18px;
+/*    margin: 10px;*/
+}
+
+#titl > #medi{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Monoton', cursive;
+    color: white;
+    font-size: 33px;
+    margin-top: 15px;
+}
+
+#titl > h1{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Monoton', cursive;
+    color: white;
+    font-size: 45px;
+    text-shadow: 0 0 3px #f50b0b, 0 0 5px #5757d3;
+}
+
+#titl h4{
+    color: #902b2b;
+    font-family: 'Righteous', cursive;
+}
+
+
+nav{
+/*    background-color:#563d7c;*/
+    margin: 10px;
+/*    background-color: #484848;*/
+/*    background-color: rgba(250, 109, 35, 0.88);*/
+    background-color: rgba(199, 58, 53, 0.98);
+}
+
+.list2 li{
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+    overflow: hidden;
+    text-decoration: none;
+
+}
+
+
+.list2 li > .ac{
+    background-color: #3C3C3C;
+    color: black;
+}
+
+.list2 li a:hover{
+/*    background-color:  rgba(192,192,192,0.3) ;*/
+    background-color:  rgba(142, 31, 31, 0.69) ;
+    color: white;
+}
+
+a{
+    font-size: 16px;
+     font-family: 'Yatra One', cursive;
+    color:whitesmoke;
+}
+
+
+.col-md-12 img{
+    width:100%;
+    height: 500px;
+}
+
+#optns2 div{
+    padding: 30px;
+    margin: 0px 100px;
+    
+    height: 350px;
+    width: 400px;
+/*    box-shadow: 10px 10px 5px grey;*/
+/*    background-color: skyblue;*/
+    margin-top: 18px;
+    text-align: center;
+}
+#optns2 div img{
+    
+    width: 260px;
+    height: 260px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(19, 44, 77, 0.92);
+}
+
+#optns2 div .neew{
+    width: 310px;
+    height: 310px;
+}
+
+#optns div p{
+    font-size: 50px;
+}
+
+
+/*about page css starts here*/
+
+#abt p{
+    margin: 25px;
+    font-size: 20px;
+/*    font-family: 'Archivo Narrow', sans-serif;*/
+/*    font-family: 'Livvic', sans-serif;*/
+    font-family: 'Bree Serif', serif;
+}
+
+#msn .dv1{
+   padding: 25px;
+}
+
+#msn h3{
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+#msn .dv1{
+    font-family: 'Bree Serif', serif;
+}
+
+#msn .dv1 p{
+    font-size: 25px;
+    text-align: center;
+}
+
+#msn .dv2 img{
+    margin: 15px;
+}
+
+
+
