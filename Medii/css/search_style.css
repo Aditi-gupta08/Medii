@@ -1,0 +1,41 @@
+body{
+            color: darkblue;
+            font-size: 25px;
+            background-color: white;
+        }
+        
+        .sr{
+            height: 370px;
+            width: 400px;
+            align-content: center;
+            align-self: center;
+            border: 5px solid black;
+            margin-top: 100px;
+            margin-left: 800px;
+            text-align: center;
+            padding:30px;
+            
+        }
+        
+        .btn{
+            font-size: 18px;
+            background-color: darkblue;
+        }
+        
+        h2{
+            text-align: center;
+            color: black;
+        }
+        
+        body{
+            background-image: url(../images/back_pain.jpg);
+            background-size: cover;
+/*            font-family: 'Righteous', cursive;*/
+            font-family: 'Acme', sans-serif;
+        }
+            
+        
+        h2{
+            font-family: 'Righteous', cursive;
+            font-size: 32px;
+        }

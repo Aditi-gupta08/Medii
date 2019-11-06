@@ -10,7 +10,9 @@
 
 
 body{
-    background-image:url(../images/bg5_e2.jpg);
+/*    background-image:url(../images/bg5_e2.jpg);*/
+    background-image:url(../images/bg_ay.jpg);
+
 
     background-size: cover;
     max-height: 100%;
@@ -42,11 +44,13 @@ li{
 
 #call{
     margin-top: 10px;
+    margin-left: 30px;
     font-family: 'Acme', sans-serif;
+    font-size: 7px;
 /*    color: #9b2222;*/
-    color: rgba(119, 43, 43, 0.98);
-    background-color: rgba(87, 119, 163, 0.52);
-    padding:18px;
+/*    background-color: rgba(87, 119, 163, 0.52);*/
+    color: rgba(119, 50, 47, 0.98);
+    padding:10px;
 /*    margin: 10px;*/
 }
 
@@ -79,7 +83,7 @@ nav{
     margin: 10px;
 /*    background-color: #484848;*/
 /*    background-color: rgba(250, 109, 35, 0.88);*/
-    background-color: rgba(199, 58, 53, 0.98);
+    background-color: rgba(199, 58, 53, 0.90);
 }
 
 .list2 li{
@@ -176,6 +180,17 @@ a{
 
 #msn .dv2 img{
     margin: 15px;
+}
+
+#light_bg{
+    margin: 20px;
+    margin-bottom: 40px;
+    color: black;
+/*
+    background-color: lightblue;
+    opacity: 0.5;
+*/
+    background-color: rgba(40,60,100, 0.5);
 }
 
 
